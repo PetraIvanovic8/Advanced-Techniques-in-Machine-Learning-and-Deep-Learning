@@ -1,1 +1,1 @@
-# Advanced-Techniques-in-Machine-Learning-and-Deep-Learning
+# Advanced Techniques in Machine Learning and Deep Learning
