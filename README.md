@@ -4,7 +4,7 @@ This repository is a detailed documentation of the most relevant work done in an
 
 The aim of this course was to gain an understanding of different theoretical concepts that we then applied to extensive hands-on assignments. This allowed me to master the implementation of advanced ML techniques and deepen my theoretical understanding of their underlying principles.
 
-## Concepts and Technologies learned and utilized throughout the course:
+## Concepts and technologies learned and utilized throughout the course:
 - **Comprehensive ML Lifecycle Understanding:** from hyperparameter optimization, feature engineering, to neural architecture search, this course covered the entire spectrum of model development and optimization techniques.
 - **Hands-On Experience with Advanced ML Tools:** I gained practical experience with automated ML tools such as Auto-sklearn, Auto-WEKA, and H2O.ai, enhancing my skills in applying these tools for efficient model development.
 - **Deep Dive into Deep Learning:** This course provided me with in-depth knowledge on designing and training neural networks using popular frameworks like TensorFlow and PyTorch, covering special architectures like Convolutional Neural Networks (CNNs) for image analysis, Recurrent Neural Networks (RNNs) for sequence data, and Generative Adversarial Networks (GANs) for generating new data instances. Additionally, we tackled Transformer models, fundamental in natural language processing tasks. 
